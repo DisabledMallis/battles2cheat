@@ -1,0 +1,2 @@
+# B2C Headers
+These are the headers B2C used to interact with the game. These ARE NOT licensed to you. If you wish the use these headers, contact me on discord (NeverGlow#0466) or open an issue on this repository. We will discuss the terms of use for these headers, and then I may give you a license to use this code.
